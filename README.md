@@ -1,6 +1,8 @@
 # BasicTester
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+# Note: Work in progress
+
+<!-- [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Description
 
@@ -21,4 +23,4 @@ List the key features and functionalities of your project. Highlight what sets i
 ## Technologies
 
 - List the technologies, frameworks, libraries, or APIs used in the project.
-- Provide brief explanations of why each technology was chosen and how it contributes to the project.
+- Provide brief explanations of why each technology was chosen and how it contributes to the project. -->
