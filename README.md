@@ -1,6 +1,6 @@
 # BasicTester
 
-# Note: Work in progress
+<!-- # Note: Work in progress -->
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
